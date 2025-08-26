@@ -161,3 +161,9 @@ We welcome contributions to the CleanWater Initiative. Please review our contrib
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+
+
+<img width="1916" height="1022" alt="image" src="https://github.com/user-attachments/assets/a66edddb-2731-40c3-b110-d22bd6b1577c" />
+
