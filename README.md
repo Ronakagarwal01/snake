@@ -52,7 +52,8 @@ To create a transparent, community-driven ecosystem that democratizes access to 
 - **Sustainability Certification**: Formal certification system for completed projects
 
 ## Contract Address Details
-*Contract deployment information will be added here upon deployment to mainnet*
+ contract id :ST16G0FJHGJVGQ4P7W2DXDYEQ7DFEASR727GFMVSX.CleanWaterInitiative
+ <img width="1916" height="1022" alt="image" src="https://github.com/user-attachments/assets/a66edddb-2731-40c3-b110-d22bd6b1577c" />
 
 **Testnet Deployment:**
 - Contract Address: `[To be added]`
@@ -165,5 +166,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 
 
-<img width="1916" height="1022" alt="image" src="https://github.com/user-attachments/assets/a66edddb-2731-40c3-b110-d22bd6b1577c" />
 
